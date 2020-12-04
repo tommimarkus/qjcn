@@ -1,0 +1,9 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..\..\FrameXML\UI.xsd">
+    <Script File="qjcn.lua" />
+    <Frame name="qjcn" parent="UIParent">
+        <Scripts>
+            <OnLoad function="qjcn_OnLoad"></OnLoad>
+            <OnEvent function="qjcn_OnEvent"></OnEvent>
+        </Scripts>
+    </Frame>
+</Ui>

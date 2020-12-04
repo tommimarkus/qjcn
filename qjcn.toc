@@ -1,0 +1,6 @@
+## Interface: 90002
+## Title: Quick Join Chat Notify
+## Version: 1.2
+## Author: Scorpio
+qjcn.lua
+qjcn.xml 
